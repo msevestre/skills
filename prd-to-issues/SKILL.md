@@ -1,3 +1,8 @@
+---
+name: prd-to-issues
+description: Read a PRD saved into a github issue (feature) and create smaller digestible issues
+---
+
 # PRD to Issues
 
 Break a PRD into independently-grabbable GitHub issues using vertical slices (tracer bullets).
